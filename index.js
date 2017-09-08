@@ -1,4 +1,4 @@
-    var http = require('http');
+var http = require('http');
 var fs = require('fs');
 var connect = require('connect');
 var express = require('express');
@@ -12,7 +12,7 @@ app.get('/', function(req, res  ) {
   	}));
     });
 
-var server = app.listen(8888, function(){
+var server = app.listen(80, function(){
         var host = server.address().address;
         var port = server.address().port;
         console.log("Example app listening at http://%s:%s", host, port);
