@@ -1,7 +1,0 @@
-{
-  "name": "api.ai js webhook",
-  "description": "Test deploying api.ai webhook to heroku",
-  "repository": "https://github.com/ricardobrg/api-ai-js-webhook",
-  "keywords": ["node", "heroku", "api.ai"],
-  "image": "heroku/nodejs"
-}
