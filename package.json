@@ -23,5 +23,9 @@
     "heroku",
     "api.ai"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.6.3",
+    "express": "^4.15.4"
+  }
 }
