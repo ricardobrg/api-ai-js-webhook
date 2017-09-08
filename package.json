@@ -1,0 +1,27 @@
+{
+  "name": "api-ai-js-webhook",
+  "version": "0.1",
+  "description": "A sample Node.js webhook for api.ai in heroku",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js",
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardobrg/api-ai-js-webhook"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "api.ai"
+  ],
+  "license": "MIT"
+}
