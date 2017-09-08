@@ -1,6 +1,6 @@
 {
   "name": "api-ai-js-webhook",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "A sample Node.js webhook for api.ai in heroku",
   "engines": {
     "node": "6.11.1"
